@@ -1,0 +1,210 @@
+----------CIÊNCIA DE DADOS----------
+
+
+    ❓O QUE É❓
+    É o processo de transformar dados em conhecimento por meio da análise e criação de hipóteses. É feito testes e validação com base em métodos estatísticos e matemáticos para responder perguntas do negócio.
+
+    🟥 ONDE APLICAR? 🟥
+    Podemos utilizá-la em Matemática, Estatística, Gestão de negócios, Machine Learning, Social Media Analytics, Mineração de dados, Gestão do conhecimento e Big Data.
+
+
+----------CRISP-DM----------
+
+
+    ❓O QUE É❓    
+    É um modelo de processo usado para guiar projetos de ciência de dados e mineração de dados. Nele, tem 6 fases:
+
+    🟥 1. Entendimento do Negócio: Define o objetivo e metas do projeto
+    🟥 2. Entendimento dos Dados: Coleta e examina os dados para verificar se estão completos e corretos.
+    🟥 3. Preparação dos Dados: Faz a formatação final.
+    🟥 4. Modelagem: Aplica técnicas de machine learning e algoritmos.
+    🟥 5. Avaliação: Verifica se o modelo atende aos objetivos de negócio.
+    🟥 6. Implantação/Deployment: Utiliza o modelo para uso prático.
+    
+    ✅ VANTAGEM ✅
+    Foco na resolução de uma necessidade, flexibilidade e padronização.
+
+
+----------POPULAÇÃO----------
+
+
+    ❓ O QUE É ❓
+    População é o conjunto completo de indivíduos ou elementos de interesse em um estudo. Há 2 tipos de população:
+    🟥 População Finita: Número limitado de elementos.
+    🟥 População Infinita: Número teoricamente ilimitado de elementos.
+
+    ❓ TERMOS COMUNS ❓
+    🟥 Uso de Parâmetros (Características de uma população)
+    🟥 Necessidade de Amostragem: Impossibilidade de estudar toda a população devido a limitações de tempo, custo ou acesso.
+    🟥 Variáveis de Interesse: As características medidos em uma
+população, como idade, sexo, renda, etc. Elas são importantes por determinar o foco do estudo e influenciam a escolha das técnicas estatísticas a serem aplicadas.
+
+
+----------AMOSTRA----------
+
+
+    ❓ O QUE É ❓
+    É um subconjunto selecionado de uma população para análise.
+    - Ela é usada porque estudar toda a população pode ser caro ou impraticável.
+    - Deve ser representativa para permitir inferências confiáveis sobre a população.
+    - O tamanho da amostra (n) indica a quantidade de elementos analisados.
+
+    ❓ MÉTODOS DE AMOSTRAGEM ❓
+    1. Censo: Obtenção de dados de toda a população. Usado para
+populações pequenas devido ao alto custo para populações maiores.
+    2. Amostragem: Seleção de uma parte da população para analisar e
+fazer inferências sobre o grupo total.
+    - Amostragem Probabilística: Cada membro da população tem igual
+chance de ser escolhido.
+    - Amostragem Não-Probabilística: A seleção não dá a todos os
+membros da população a mesma chance de serem escolhidos.
+
+    ❓ TÉCNICAS DE AMOSTRAGEM ❓
+    1. Amostragem Probabilística
+    Ocorre quando todos os elementos da população têm uma chance conhecida de serem selecionados.
+    A. Amostra Aleatória Simples: Todos têm a mesma probabilidade de escolha.
+    B. Amostra Sistemática: Seleciona-se um ponto inicial aleatório e depois cada k-ésimo elemento da sequência.
+
+
+    2. Amostragem Estratificada: Divide a população em subgrupos com características semelhantes. Depois seleciona uma amostra de cada grupo para representar melhor a população.
+
+
+    3. Amostragem por Conglomerado: Divide a população em grupos representativos. Depois, alguns desses grupos são escolhidos aleatoriamente para a pesquisa.
+
+
+    4. Amostragem Não-Probabilística: A seleção não oferece a todos os membros da população a mesma chance de serem escolhidos.
+
+
+    5. Amostra por Conveniência: Seleção de membros da população que estão convenientemente disponíveis.
+
+
+    6. Amostra por Julgamento: O pesquisador usa seu julgamento para escolher os membros da amostra que ele acha que são mais representativos da população.
+
+
+    7. Amostragem Não-Probabilística: A seleção não oferece a todos os membros da população a mesma chance de serem escolhidos.
+
+
+    8. Amostra por Cotas: A população é dividida em categorias e o pesquisador preenche uma cota para cada categoria.
+
+
+    9. Amostra Bola de Neve: Os participantes iniciais de uma pesquisa ajudam os pesquisadores a identificar outros participantes.
+
+
+    10. Amostra Desproporcional: Os subgrupos na população são amostrados em uma proporção que não reflete sua proporção na população.
+
+
+    ❓ IMPLICAÇÕES DA ESCOLHA DE AMOSTRA ❓
+
+    🟥 Margem de Erro: Variação aceitável nos resultados de uma
+pesquisa causada pela utilização de uma amostra em vez de toda a
+população.
+
+    🟥 Intervalo de Confiança: A probabilidade de que a característica
+medida esteja dentro de um intervalo específico.
+
+    🟥 Fórmula de Cálculo da Amostra: Onde "n" é o número necessário de questionários e "e" é a margem de erro desejada
+
+
+----------VARIÁVEIS----------
+
+
+    ❓O QUE É❓
+    É uma característica mensurável que pode variar entre os indivíduos de um estudo.
+
+    🟥 TIPOS DE VARIÁVEIS 🟥
+
+    1. Variáveis Quantitativas:
+        - Discretas: Contadas, como o número de consultas médicas.
+        - Contínuas: Medidas, como o peso em quilogramas.
+
+    2. Variáveis Qualitativas:
+        - Nominais: Sem ordem, como cor dos olhos.
+        - Ordinais: Com ordem, como níveis de educação.
+
+
+    🟥 VARIÁVEIS DEPENDENTES E INDEPENDENTES 🟥
+    1. Variável Independente: Causa uma mudança
+    2. Variável Dependente: Efeito medido
+
+
+----------PESQUISA----------
+
+
+    ❓O QUE É❓
+    É um processo sistemático de investigação para responder um problema.
+    🟥 Pesquisa Quantitativa: Baseada em números, Utiliza estatística, Busca generalização.
+    🟥 Pesquisa Qualitativa: Explora percepções, significados e comportamentos.
+    🟥 Pesquisa Mista: Combina quantitativa com qualitativa.
+
+
+----------COLETA DE DADOS----------
+
+
+    Há 2 tipos de coleta de dados
+    🟥 Dados Primários: Coletados diretamente pelo pesquisador. Questionários, Entrevistas, Experimentos, Observação
+    🟥 Dados Secundários: Já existentes, Bases públicas (IBGE, DATASUS), Relatórios institucionais, Logs de sistemas, Data warehouse, Artigos científicos
+
+
+----------GRAU DE ESTRUTURA----------
+
+
+    1. 🟥 Estruturada 🟥
+        - Instrumento padronizado
+        - Perguntas fixas
+        - Mesma ordem para todos
+        - Pouca flexibilidade
+        - Muito comum em pesquisas quantitativas
+        - Exemplo: Formulário Google Forms com alternativas fechadas.
+
+    2. 🟥 Semiestruturada 🟥
+        - Roteiro pré-definido
+        - Permite aprofundar respostas
+        - Flexibilidade moderada
+        - Exemplo: Entrevista com roteiro base, mas com perguntas adicionais conforme a resposta.
+
+    3. 🟥 Não Estruturada 🟥
+        - Livre
+        - Sem roteiro rígido
+        - Exploratória
+        - Muito usada em pesquisa qualitativa
+        - Exemplo: Conversa aberta para entender dificuldades de desenvolvedores em um projeto.
+
+
+----------TÉCNICA/INSTRUMENTO DE COLETA----------
+
+
+    1. 🟥 Questionário / Survey 🟥
+        - Perguntas fechadas ou abertas
+        - Escalável
+        - Muito usado em Engenharia de Software (ex: satisfação de usuários)
+
+    2. 🟥 Entrevista 🟥
+        - Estruturada
+        - Semiestruturada
+        - Aberta
+
+    3. 🟥 Observação 🟥
+        - Participante
+        - Não participante
+
+    4. 🟥 Experimento / Teste A/B 🟥
+        - Comparação controlada
+        - Muito usado em UX e produto digital
+
+    5. 🟥 Coleta automatizada 🟥
+        - APIs
+        - Web scraping
+        - Logs de sistema
+        - Sensores / IoT
+
+
+----------TEMPO DA COLETA----------
+
+
+    1. 🟥 Transversal 🟥
+        - Um único momento
+
+    2. 🟥 Longitudinal 🟥
+        - Acompanhamento ao longo do tempo
+
+
