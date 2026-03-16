@@ -1,59 +1,64 @@
+------------------------------
+❌ - Not Done
+✅ - Done
+👁️ - Working in Progress
+------------------------------
 
-------------Assuntos------------
 
-Estrutura de Dados
-Rede de Computadores
-Banco de Dados
-Post de RE SQL
-Backend: Java
-Frontend: Javascript
-Networking Fundamentals (OSI TCP/IP models, Ipv4 / Ipv6...)
-HTML
-CSS
+------------Topics------------
 
-------------Redes de Computadores (Básico)------------
+❌ Data Structures
+❌ Computer Networks
+❌ Databases
+❌ SQL Posts / SQL RE Posts
+❌ Backend: Java
+❌ Frontend: JavaScript
+❌ Networking Fundamentals (OSI, TCP/IP models, IPv4 / IPv6...)
+👁️ JavaScript
+👁️ HTML
+❌ CSS
 
-7. Aplicação
-6. Apresentação
-5. Sessão
-4. Transporte
-3. Redes
-2. En lace
-1. Física
+------------Computer Networks (Basic)------------
 
-------------Rede de Sistemas, algo assim------------
+❌ OSI Model Layers:
+❌ Application
+❌ Presentation
+❌ Session
+❌ Transport
+❌ Network
+❌ Data Link
+❌ Physical
 
-Localização do Computador (IPv4, IPv6)
-Envio de Pacotes (TCP, UDP)
-SYN (Syncronize)
-ACK (???)
-Hub
-Modem
-Roteador
-Repetidor.
-DNS
+------------Network Systems (something like this)------------
 
-------------------------
-
-Javascript
-HTML
-CSS
-Node.js Typescript
-TailwindCSS
-Frameworks: React, Vue, Nest
-Java (Springboot (mais valioso)), Python (e pandas)
-SQL (PostgreSQL, MondoDB)
-Git, Docker, AWS
-API, CRUD, SOLID, etc.
+❌ Computer Addressing (IPv4, IPv6)
+❌ Packet Transmission (TCP, UDP)
+❌ SYN (Synchronize)
+❌ ACK (Acknowledgment)
+❌ Hub
+❌ Modem
+❌ Router
+❌ Repeater
+❌ DNS
 
 ------------------------
 
-    Adicionar soft skills no curriculo
-    Olhar vagas do Linkedin para ver o requisito da vaga, e usar isso como forma de descobrir o que mais o mercado exige para estudar e por no próprio currículo
-    Incorporar dicas de perfil no Github e Linkedin para alcançar mais atenção
-    Postar de 1-2 Semanas no Linkedin chama pessoas
-    Sem timidez, falar com recrutadores aumenta chances de pegar emprego/estágio, independente se for no Linkedin ou pessoalmente.
-    Faça networking, converse com pessoas no linkedin ou vá para eventos no estado ou cidade, as pessoas só vao pra esses eventos para fazer networking.
+❌ Node.js / TypeScript
+❌ TailwindCSS
+❌ Frameworks: React, Vue, Nest
+👁️ Java (Spring Boot — more valuable)
+👁️ Python (and Pandas)
+❌ SQL (PostgreSQL, MongoDB)
+❌ Git, Docker, AWS
+❌ API, CRUD, SOLID, etc.
 
 ------------------------
 
+❌ Add soft skills to your resume.
+❌ Look at job postings on LinkedIn to see the requirements, and use that to discover what the market demands so you can study those topics and add them to your resume.
+✅ Improve your GitHub and LinkedIn profiles to attract more attention.
+❌ Posting on LinkedIn every 1–2 weeks attracts people and visibility.
+❌ Don’t be shy: talking to recruiters increases your chances of getting a job or internship, whether on LinkedIn or in person.
+❌ Do networking: talk to people on LinkedIn or attend events in your state or city. Most people go to these events specifically to network.
+
+------------------------
