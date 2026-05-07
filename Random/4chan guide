@@ -1,0 +1,30 @@
+4chan guide
+
+- does not know your personal identity (name, email, etc.) in the traditional sense, as it does not have a user registration system, but it does log technical data that can identify you.
+- IP Logging: 4chan logs the IP address of every post, which can be used to identify your ISP and general location, especially by law enforcement.
+- Persistent Anonymity: Over 90% of posts are made by fully anonymous users. The site thrives on this lack of persistent identity.
+- No Personal Profiles: The site doesn't store cookies to track you across sessions for personalized content, although cookies are used for site functionality.
+- Data Exposure Risks: Because 4chan is "anonymous" from the user end but not the backend, administrators and potentially attackers can access user data like IP addresses, browser info, and raw communications.
+- How to be safe: Do not post personal information or images that contain EXIF metadata (like GPS location), as 4chan does not remove this data. Using a VPN can hide your true IP address from the site.
+
+- Finding anonymous users involves leveraging web analytics, tracking pixels, and identity resolution tools to link behavioral data to known profiles.
+- Common methods include using first-party cookies, IP address tracking, behavioral analysis via tools like PostHog, or utilizing platforms such as 6sense to de-anonymize website visitors by matching IP addresses to company profiles.Here are the primary methods for identifying anonymous users:
+
+1. Website Visitor Identification Tools
+- LinkedIn Profile Reveal Tools: Services like rb2b.com allow you to add a script to your website that identifies visitors and reveals their LinkedIn profiles (specifically for US traffic).
+- Identity Resolution Platforms: Tools such as 6sense, Demandbase, or ZoomInfo combine behavioral signals and IP lookups to match anonymous visitors with company profiles.
+- Customer Data Platforms (CDPs): Systems like Segment or Braze collect data on user activity, such as pages visited and actions taken, and create a persistent profile that can be linked to a known identity once they provide an email or make a purchase.
+
+2. Behavioral Tracking & AnalysisProduct Analytics Tools: Tools like Heap or PostHog help analyze how visitors navigate your site, which can help infer intent.IP Address Tracking: Tracking the IP addresses from which visitors access your site can provide information on their location, which is often used in B2B to identify companies browsing your products.
+- Server-Side Tracking: Using tools like MetaRouter in a private cloud environment allows tracking of anonymous users through first-party cookies, ensuring both compliance and control over data.3. Open Source Intelligence (OSINT)
+- Digital Footprint Analysis: Investigating social media profiles, username searches, or email lookups on platforms like Have I Been Pwned can sometimes connect an anonymous user to a known digital identity.Image Metadata: Analyzing metadata from pictures, such as GPS coordinates, can sometimes reveal the location of a user.4. Technical and Legal Methods
+- IP Address Logging: Monitoring IP addresses in server logs can help identify the source of anonymous posts or actions.Subpoena/Legal Request: In legal situations, attorneys may be able to subpoena internet service providers (ISPs) or platforms to unmask anonymous users.
+- Limitations:
+- Privacy Regulations: Regulations like GDPR and CCPA put restrictions on tracking, and users can use tools to protect their anonymity.
+- Browser Restrictions: The phasing out of third-party cookies by browsers like Chrome makes tracking more complex, forcing marketers to focus on first-party data.
+
+- 4chan works by whatever comment somebody leaves last "bumps" the entire thread to the top (you will see people leaving comments that just say bump which is them wanting to keep the thread alive so it gets more attention and responses). So on a board like /b/ (random) where there is a lot of people commenting, posts cycle through fast. You hit refresh once and the front page will look different simply because of so many people replying.
+- It basically consists of threads that live and die really fast. As soon as the thread drops back a few pages if nobody replies to it then it might get lost and then become deleted after it is pushed so far down.
+- It is also an image board. The entire point is you post an image and then people comment on it in various ways. There are different memes and inside jokes that you might learn in time. But basically you find a picture that intrigues you or a post that intrigues you and then you click reply and see all the various comments and possible picture replies.
+- I haven't been on 4chan in awhile, but I hear some of the other boards that aren't /b/ move a bit slower and in those you will find more discussion. /b/ moves ridiculously fast though so it is a lot of refreshing the page to see what other new thing might come up.
+- And to be honest, 99.9% of the content is going to be boring, porn, or forcing a joke or something shocking. The other .1% might make you chuckle for being witty.
