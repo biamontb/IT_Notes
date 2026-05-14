@@ -1,0 +1,51 @@
+Essential Terminal Commands
+
+Navigation & Files:
+ls -la: List all files, including hidden ones, in detailed format.
+cd <directory>: Change directory.
+cd ..: Move up one folder level.
+pwd: Print working directory.
+mkdir <name>: Create a new directory.
+touch <file>: Create a new file.
+rm <file>: Remove a file.
+rm -rf <dir>: Remove a directory and its contents (use with caution).
+
+System & Information:
+top / htop: View running processes.
+df -h: Check disk space usage.
+whoami: Display current user.
+sudo <command>: Execute a command with root/administrator privileges.
+
+Help & Search:
+man <command>: Show the manual page for a command.
+history: Show command history.
+grep <pattern> <file>: Search for text inside a file.
+
+Essential Keyboard Shortcuts:
+Ctrl + C: Cancel/stop the current command.
+Ctrl + L: Clear the screen.
+Ctrl + R: Search through command history.
+Tab: Auto-complete file names or commands.
+!!: Repeat the last command.
+
+ANSI Escape Codes (Styling):
+These codes allow you to change text colors and cursor positions within scripts or command-line tools.
+Format: \033[<parameters>m
+Colors:
+Reset: \033[0m
+Red: \033[31m
+Green: \033[32m
+Yellow: \033[33m
+Blue: \033[34m
+
+Example (Bash): echo -e "\033[31mThis is red text\033[0m"
+
+Common ASCII Codes (Control Characters)
+BEL (Bell): \a or 0x07 - Makes a sound.
+BS (Backspace): \b or 0x08 - Moves cursor back.
+LF (Line Feed): \n or 0x0A - Newline.
+
+Terminal Tricks
+Open Finder (Mac): Type open . to open the current directory in Finder.
+Copy/Paste in Windows (Git Bash): Ctrl + Insert to copy, Shift + Insert to paste.
+Open Terminal in Folder (VS Code): Use Ctrl+Shift+Alt+ to open a new terminal panel.
